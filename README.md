@@ -7,7 +7,6 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Array
 - [0011-container-with-most-water](./0011-container-with-most-water)
 - [0026-remove-duplicates-from-sorted-array](./0026-remove-duplicates-from-sorted-array)
-- [0034-find-first-and-last-position-of-element-in-sorted-array](./0034-find-first-and-last-position-of-element-in-sorted-array)
 - [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency)
 
 ### Binary Search

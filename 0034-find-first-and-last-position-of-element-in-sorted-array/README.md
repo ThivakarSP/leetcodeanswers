@@ -1,6 +1,6 @@
 # [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-**Difficulty**: 🟢 Easy
+**Difficulty**: ð¢ Easy
 
 **Topics**: `Array` `Binary Search`
 
@@ -61,5 +61,28 @@
 ---
 
 *Solved on: 8/13/2026*
+
+---
+
+## Version 2
+
+**Language**: Java
+
+**Runtime**: `0 ms` (100.00%)
+
+**Memory**: `48.4 MB` (14.25%)
+
+*Solved on: 8/13/2026*
+
+### References (v2)
+
+**Approach**: Binary Search
+
+**Video**: [Watch on YouTube](https://www.youtube.com/watch?v=hjR1IYVx9lY)
+
+**Time Complexity**: O\(log n\)
+
+**Space Complexity**: O\(1\)
+
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*
