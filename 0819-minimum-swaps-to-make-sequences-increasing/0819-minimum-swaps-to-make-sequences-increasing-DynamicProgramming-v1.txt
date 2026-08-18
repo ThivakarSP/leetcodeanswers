@@ -1,0 +1,28 @@
+                newSwap = Math.min(newSwap, swap + 1);
+            }
+
+            // Previous SWAPPED     → Current NOT swapped
+                newNoSwap = Math.min(newNoSwap, noSwap);
+                nums2[i] > nums2[i - 1]) {
+
+            if (nums1[i] > nums1[i - 1] &&
+            // Previous SWAPPED     → Current SWAPPED
+            // Previous NOT swapped → Current NOT swapped
+            int newSwap = Integer.MAX_VALUE;
+
+
+            int newNoSwap = Integer.MAX_VALUE;
+
+        for (int i = 1; i < n; i++) {
+        int noSwap = 0;
+        int swap = 1;
+        int n = nums1.length;
+
+
+class Solution {
+    public int minSwap(int[] nums1, int[] nums2) {
+            // Previous NOT swapped → Current SWAPPED
+            if (nums1[i] > nums2[i - 1] &&
+                nums2[i] > nums1[i - 1]) {
+
+                newNoSwap = Math.min(newNoSwap, swap);
