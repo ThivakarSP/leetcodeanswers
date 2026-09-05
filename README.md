@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 
 ### Sliding Window
 - [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters)
+- [0076-minimum-window-substring](./0076-minimum-window-substring)
 - [0567-permutation-in-string](./0567-permutation-in-string)
 - [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer)
 
