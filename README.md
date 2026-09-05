@@ -23,3 +23,6 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0567-permutation-in-string](./0567-permutation-in-string)
 - [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer)
 
+### Stack
+- [0155-min-stack](./0155-min-stack)
+
