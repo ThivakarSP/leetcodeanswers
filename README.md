@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii)
 
 ### Dynamic Programming
+- [0115-distinct-subsequences](./0115-distinct-subsequences)
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
 - [1685-stone-game-v](./1685-stone-game-v)
 
