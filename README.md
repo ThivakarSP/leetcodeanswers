@@ -26,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 
 ### Stack
 - [0155-min-stack](./0155-min-stack)
+- [0739-daily-temperatures](./0739-daily-temperatures)
 
