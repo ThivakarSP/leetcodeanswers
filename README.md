@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 
 ### Binary Search
 - [0074-search-a-2d-matrix](./0074-search-a-2d-matrix)
+- [0153-find-minimum-in-rotated-sorted-array](./0153-find-minimum-in-rotated-sorted-array)
 - [0907-koko-eating-bananas](./0907-koko-eating-bananas)
 
 ### Dynamic Programming
