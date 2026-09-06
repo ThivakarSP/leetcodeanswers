@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer)
 
 ### Stack
+- [0084-largest-rectangle-in-histogram](./0084-largest-rectangle-in-histogram)
 - [0155-min-stack](./0155-min-stack)
 - [0739-daily-temperatures](./0739-daily-temperatures)
 
