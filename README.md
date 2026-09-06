@@ -14,6 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
 - [1685-stone-game-v](./1685-stone-game-v)
 
+### Greedy
+- [0883-car-fleet](./0883-car-fleet)
+
 ### Heap
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 
