@@ -9,6 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [4284-smallest-stable-index-i](./4284-smallest-stable-index-i)
 - [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii)
 
+### Binary Search
+- [0074-search-a-2d-matrix](./0074-search-a-2d-matrix)
+
 ### Dynamic Programming
 - [0115-distinct-subsequences](./0115-distinct-subsequences)
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
