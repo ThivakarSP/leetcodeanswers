@@ -23,6 +23,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Greedy
 - [0883-car-fleet](./0883-car-fleet)
 
+### Hash Table
+- [1023-time-based-key-value-store](./1023-time-based-key-value-store)
+
 ### Heap
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 

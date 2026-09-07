@@ -1,0 +1,11 @@
+
+}
+
+    }
+        this.timestamp = timestamp;
+        this.value = value;
+    Pair(String value,int timestamp){
+
+    int timestamp;
+    String value;
+class Pair{
