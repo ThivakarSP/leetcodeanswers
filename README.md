@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii)
 
 ### Backtracking
+- [0282-expression-add-operators](./0282-expression-add-operators)
 - [0494-target-sum](./0494-target-sum)
 
 ### Binary Search
