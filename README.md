@@ -51,3 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0155-min-stack](./0155-min-stack)
 - [0739-daily-temperatures](./0739-daily-temperatures)
 
+### Two Pointers
+- [0021-merge-two-sorted-lists](./0021-merge-two-sorted-lists)
+
