@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 
 ### Linked List
+- [0143-reorder-list](./0143-reorder-list)
 - [0206-reverse-linked-list](./0206-reverse-linked-list)
 
 ### Math
