@@ -33,6 +33,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Heap
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 
+### Linked List
+- [0206-reverse-linked-list](./0206-reverse-linked-list)
+
 ### Math
 - [4245-count-commas-in-range](./4245-count-commas-in-range)
 
