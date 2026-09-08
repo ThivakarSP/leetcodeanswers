@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0739-daily-temperatures](./0739-daily-temperatures)
 
 ### Two Pointers
+- [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list)
 - [0021-merge-two-sorted-lists](./0021-merge-two-sorted-lists)
 - [0141-linked-list-cycle](./0141-linked-list-cycle)
 
