@@ -33,6 +33,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Heap
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 
+### Math
+- [4245-count-commas-in-range](./4245-count-commas-in-range)
+
 ### Sliding Window
 - [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters)
 - [0076-minimum-window-substring](./0076-minimum-window-substring)
