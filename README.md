@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Recursion
 - [0100-same-tree](./0100-same-tree)
 - [0104-maximum-depth-of-binary-tree](./0104-maximum-depth-of-binary-tree)
+- [0226-invert-binary-tree](./0226-invert-binary-tree)
 - [0543-diameter-of-binary-tree](./0543-diameter-of-binary-tree)
 
 ### Sliding Window
