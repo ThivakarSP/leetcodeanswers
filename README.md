@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii)
 
 ### Backtracking
+- [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number)
 - [0022-generate-parentheses](./0022-generate-parentheses)
 - [0039-combination-sum](./0039-combination-sum)
 - [0040-combination-sum-ii](./0040-combination-sum-ii)
