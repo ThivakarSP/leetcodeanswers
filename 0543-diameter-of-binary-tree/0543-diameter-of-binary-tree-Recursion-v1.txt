@@ -1,0 +1,6 @@
+
+        diameter = Math.max(diameter,left+right);
+
+        return 1 + Math.max(left,right);
+    }
+}
