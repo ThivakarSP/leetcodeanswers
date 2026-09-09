@@ -49,6 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [4245-count-commas-in-range](./4245-count-commas-in-range)
 - [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii)
 
+### Recursion
+- [0100-same-tree](./0100-same-tree)
+
 ### Sliding Window
 - [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters)
 - [0076-minimum-window-substring](./0076-minimum-window-substring)
