@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 
 ### Math
 - [4245-count-commas-in-range](./4245-count-commas-in-range)
+- [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii)
 
 ### Sliding Window
 - [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters)
