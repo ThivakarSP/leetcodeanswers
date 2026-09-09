@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0104-maximum-depth-of-binary-tree](./0104-maximum-depth-of-binary-tree)
 - [0226-invert-binary-tree](./0226-invert-binary-tree)
 - [0543-diameter-of-binary-tree](./0543-diameter-of-binary-tree)
+- [0572-subtree-of-another-tree](./0572-subtree-of-another-tree)
 
 ### Sliding Window
 - [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters)
