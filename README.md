@@ -26,6 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0153-find-minimum-in-rotated-sorted-array](./0153-find-minimum-in-rotated-sorted-array)
 - [0907-koko-eating-bananas](./0907-koko-eating-bananas)
 
+### Breadth-First Search
+- [0102-binary-tree-level-order-traversal](./0102-binary-tree-level-order-traversal)
+
 ### Dynamic Programming
 - [0115-distinct-subsequences](./0115-distinct-subsequences)
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
