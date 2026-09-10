@@ -27,6 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0153-find-minimum-in-rotated-sorted-array](./0153-find-minimum-in-rotated-sorted-array)
 - [0907-koko-eating-bananas](./0907-koko-eating-bananas)
 
+### Bit Manipulation
+- [0767-prime-number-of-set-bits-in-binary-representation](./0767-prime-number-of-set-bits-in-binary-representation)
+
 ### Breadth-First Search
 - [0102-binary-tree-level-order-traversal](./0102-binary-tree-level-order-traversal)
 - [0199-binary-tree-right-side-view](./0199-binary-tree-right-side-view)
