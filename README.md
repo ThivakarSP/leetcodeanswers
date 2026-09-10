@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [1023-time-based-key-value-store](./1023-time-based-key-value-store)
 
 ### Heap
+- [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists)
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 
 ### Linked List

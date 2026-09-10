@@ -1,0 +1,9 @@
+
+            if(node.next != null){
+                pq.offer(node.next);
+            }
+        }
+
+        return dummy.next;
+    }
+}
