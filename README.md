@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0883-car-fleet](./0883-car-fleet)
 
 ### Hash Table
+- [0146-lru-cache](./0146-lru-cache)
 - [1023-time-based-key-value-store](./1023-time-based-key-value-store)
 
 ### Heap
