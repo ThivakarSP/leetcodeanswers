@@ -31,6 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0102-binary-tree-level-order-traversal](./0102-binary-tree-level-order-traversal)
 - [0199-binary-tree-right-side-view](./0199-binary-tree-right-side-view)
 
+### Depth-First Search
+- [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree)
+
 ### Dynamic Programming
 - [0115-distinct-subsequences](./0115-distinct-subsequences)
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
