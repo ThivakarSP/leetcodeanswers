@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 
 ### Dynamic Programming
 - [0115-distinct-subsequences](./0115-distinct-subsequences)
+- [0198-house-robber](./0198-house-robber)
 - [0747-min-cost-climbing-stairs](./0747-min-cost-climbing-stairs)
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
 - [0977-distinct-subsequences-ii](./0977-distinct-subsequences-ii)
