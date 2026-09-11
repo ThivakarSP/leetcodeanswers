@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Hash Table
 - [0146-lru-cache](./0146-lru-cache)
 - [1023-time-based-key-value-store](./1023-time-based-key-value-store)
+- [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers)
 
 ### Heap
 - [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists)
