@@ -92,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list)
 - [0021-merge-two-sorted-lists](./0021-merge-two-sorted-lists)
 - [0048-rotate-image](./0048-rotate-image)
+- [0054-spiral-matrix](./0054-spiral-matrix)
 - [0141-linked-list-cycle](./0141-linked-list-cycle)
 
