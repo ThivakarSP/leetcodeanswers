@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree)
 
 ### Dynamic Programming
+- [0062-unique-paths](./0062-unique-paths)
 - [0091-decode-ways](./0091-decode-ways)
 - [0115-distinct-subsequences](./0115-distinct-subsequences)
 - [0139-word-break](./0139-word-break)
