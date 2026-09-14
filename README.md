@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0152-maximum-product-subarray](./0152-maximum-product-subarray)
 - [0198-house-robber](./0198-house-robber)
 - [0213-house-robber-ii](./0213-house-robber-ii)
+- [0300-longest-increasing-subsequence](./0300-longest-increasing-subsequence)
 - [0322-coin-change](./0322-coin-change)
 - [0747-min-cost-climbing-stairs](./0747-min-cost-climbing-stairs)
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
