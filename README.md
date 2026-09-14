@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0747-min-cost-climbing-stairs](./0747-min-cost-climbing-stairs)
 - [0819-minimum-swaps-to-make-sequences-increasing](./0819-minimum-swaps-to-make-sequences-increasing)
 - [0977-distinct-subsequences-ii](./0977-distinct-subsequences-ii)
+- [1250-longest-common-subsequence](./1250-longest-common-subsequence)
 - [1685-stone-game-v](./1685-stone-game-v)
 
 ### Greedy
