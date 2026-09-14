@@ -1,0 +1,8 @@
+        int c = col;
+
+        while(r < mat.length && c < mat[0].length){
+            list.add(mat[r][c]);
+            r++;
+            c++;
+        }
+

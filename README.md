@@ -98,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0048-rotate-image](./0048-rotate-image)
 - [0054-spiral-matrix](./0054-spiral-matrix)
 - [0141-linked-list-cycle](./0141-linked-list-cycle)
+- [1253-sort-the-matrix-diagonally](./1253-sort-the-matrix-diagonally)
 
