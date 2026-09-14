@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0091-decode-ways](./0091-decode-ways)
 - [0115-distinct-subsequences](./0115-distinct-subsequences)
 - [0139-word-break](./0139-word-break)
+- [0152-maximum-product-subarray](./0152-maximum-product-subarray)
 - [0198-house-robber](./0198-house-robber)
 - [0213-house-robber-ii](./0213-house-robber-ii)
 - [0322-coin-change](./0322-coin-change)
