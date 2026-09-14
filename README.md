@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Heap
 - [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists)
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
+- [3748-sort-matrix-by-diagonals](./3748-sort-matrix-by-diagonals)
 
 ### Linked List
 - [0143-reorder-list](./0143-reorder-list)
