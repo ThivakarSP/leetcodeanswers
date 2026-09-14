@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 
 ### Dynamic Programming
 - [0115-distinct-subsequences](./0115-distinct-subsequences)
+- [0139-word-break](./0139-word-break)
 - [0198-house-robber](./0198-house-robber)
 - [0213-house-robber-ii](./0213-house-robber-ii)
 - [0322-coin-change](./0322-coin-change)
