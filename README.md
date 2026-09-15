@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array)
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 - [0789-kth-largest-element-in-a-stream](./0789-kth-largest-element-in-a-stream)
+- [1014-k-closest-points-to-origin](./1014-k-closest-points-to-origin)
 - [3748-sort-matrix-by-diagonals](./3748-sort-matrix-by-diagonals)
 
 ### Linked List
