@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 
 ### Greedy
 - [0883-car-fleet](./0883-car-fleet)
+- [1644-maximum-number-of-non-overlapping-substrings](./1644-maximum-number-of-non-overlapping-substrings)
 
 ### Hash Table
 - [0146-lru-cache](./0146-lru-cache)
