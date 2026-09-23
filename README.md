@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0076-minimum-window-substring](./0076-minimum-window-substring)
 - [0239-sliding-window-maximum](./0239-sliding-window-maximum)
 - [0567-permutation-in-string](./0567-permutation-in-string)
+- [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero)
 - [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer)
 
 ### Stack
