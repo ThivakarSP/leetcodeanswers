@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0084-largest-rectangle-in-histogram](./0084-largest-rectangle-in-histogram)
 - [0155-min-stack](./0155-min-stack)
 - [0739-daily-temperatures](./0739-daily-temperatures)
+- [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses)
 
 ### Two Pointers
 - [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list)
