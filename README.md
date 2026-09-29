@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [1250-longest-common-subsequence](./1250-longest-common-subsequence)
 - [1685-stone-game-v](./1685-stone-game-v)
 - [1725-number-of-sets-of-k-non-overlapping-line-segments](./1725-number-of-sets-of-k-non-overlapping-line-segments)
+- [2349-check-if-there-is-a-valid-parentheses-string-path](./2349-check-if-there-is-a-valid-parentheses-string-path)
 
 ### Greedy
 - [0883-car-fleet](./0883-car-fleet)
