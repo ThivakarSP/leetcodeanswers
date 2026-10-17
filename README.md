@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0304-range-sum-query-2d-immutable](./0304-range-sum-query-2d-immutable)
 - [0864-image-overlap](./0864-image-overlap)
 - [0866-rectangle-overlap](./0866-rectangle-overlap)
+- [3847-minimum-swaps-to-sort-by-digit-sum](./3847-minimum-swaps-to-sort-by-digit-sum)
 - [4284-smallest-stable-index-i](./4284-smallest-stable-index-i)
 - [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii)
 
