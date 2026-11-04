@@ -4,7 +4,7 @@
 
 **Topics**: `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 
-**Approach**: Recursion
+**Approach**: Tree
 
 ---
 
@@ -49,11 +49,9 @@
 
 ## Solution
 
-**Language**: Java
+**Language**: "java"
 
 **Runtime**: `0 ms` (Beats 100.00%)
-
-**Memory**: `43.2 MB` (Beats 15.58%)
 
 ---
 
@@ -61,13 +59,13 @@
 
 **Time Complexity**: O\(n\)
 
-**Space Complexity**: O\(n\)
+**Space Complexity**: O\(h\)
 
 **Notes**:
-Recursively compares corresponding nodes of both trees; returns true only if all node values and structures match.
+Uses a recursive depth‑first traversal to compare corresponding nodes of the two binary trees; visits each node once, with recursion stack height equal to the tree height.
 
 ---
 
-*Solved on: 9/9/2026*
+*Solved on: 11/4/2026*
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*

@@ -1,0 +1,7 @@
+
+        return leftt && rightt;
+    }
+}
+        boolean rightt = find(p.right,q.right);
+        boolean leftt = find(p.left,q.left);
+
