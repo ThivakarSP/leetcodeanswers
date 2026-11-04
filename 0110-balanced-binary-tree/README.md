@@ -1,6 +1,6 @@
 # [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
-**Difficulty**: 🟢 Easy
+**Difficulty**: ð¢ Easy
 
 **Topics**: `Tree` `Depth-First Search` `Binary Tree`
 
@@ -67,5 +67,29 @@ The solution uses a separate depth calculation for each node, causing repeated t
 ---
 
 *Solved on: 9/9/2026*
+
+---
+
+## Version 2
+
+**Language**: Java
+
+**Runtime**: `1 ms` (51.10%)
+
+**Memory**: `45.4 MB` (71.33%)
+
+*Solved on: 11/4/2026*
+
+### References (v2)
+
+**Approach**: Tree
+
+**Time Complexity**: O\(n\)
+
+**Space Complexity**: O\(n\)
+
+**Notes**:
+Performs a post-order DFS recursion that returns subtree heights and propagates -1 on imbalance, visiting each node once.
+
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*
