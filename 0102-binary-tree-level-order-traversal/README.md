@@ -1,6 +1,6 @@
 # [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-**Difficulty**: 🟢 Easy
+**Difficulty**: ð¢ Easy
 
 **Topics**: `Tree` `Breadth-First Search` `Binary Tree`
 
@@ -67,5 +67,29 @@ Uses a queue to traverse each level of the tree, collecting node values into lis
 ---
 
 *Solved on: 9/9/2026*
+
+---
+
+## Version 2
+
+**Language**: Java
+
+**Runtime**: `2 ms` (26.33%)
+
+**Memory**: `46.4 MB` (76.32%)
+
+*Solved on: 11/4/2026*
+
+### References (v2)
+
+**Approach**: Tree
+
+**Time Complexity**: O\(n\)
+
+**Space Complexity**: O\(n\)
+
+**Notes**:
+Uses a queue to perform level-order \(breadth‑first\) traversal of the binary tree, storing values of each level in a list.
+
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*
