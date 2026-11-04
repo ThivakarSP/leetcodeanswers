@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Tree
 - [0094-binary-tree-inorder-traversal](./0094-binary-tree-inorder-traversal)
 - [0144-binary-tree-preorder-traversal](./0144-binary-tree-preorder-traversal)
+- [0145-binary-tree-postorder-traversal](./0145-binary-tree-postorder-traversal)
 
 ### Two Pointers
 - [0019-remove-nth-node-from-end-of-list](./0019-remove-nth-node-from-end-of-list)
