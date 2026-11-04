@@ -1,6 +1,6 @@
 # [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-**Difficulty**: 🟢 Easy
+**Difficulty**: ð¢ Easy
 
 **Topics**: `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 
@@ -57,10 +57,34 @@
 **Space Complexity**: O\(n\)
 
 **Notes**:
-Recursively computes the depth of left and right subtrees, then returns 1 plus the maximum of those depths, effectively performing a depth‑first traversal of the tree.
+Recursively computes the depth of left and right subtrees, then returns 1 plus the maximum of those depths, effectively performing a depthâfirst traversal of the tree.
 
 ---
 
 *Solved on: 9/9/2026*
+
+---
+
+## Version 2
+
+**Language**: Java
+
+**Runtime**: `0 ms` (100.00%)
+
+**Memory**: `46.9 MB` (64.12%)
+
+*Solved on: 11/4/2026*
+
+### References (v2)
+
+**Approach**: Tree
+
+**Time Complexity**: O\(n\)
+
+**Space Complexity**: O\(n\)
+
+**Notes**:
+Uses a simple recursive DFS to compute the depth; each node is visited once and the recursion stack depth equals the tree height \(worst‑case O\(n\)\).
+
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*
