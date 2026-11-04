@@ -1,10 +1,10 @@
 # [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
-**Difficulty**: 🟢 Easy
+**Difficulty**: 🟡 Medium
 
 **Topics**: `Tree` `Depth-First Search` `Binary Tree` `DP on Trees`
 
-**Approach**: Recursion
+**Approach**: Tree
 
 ---
 
@@ -45,9 +45,11 @@
 
 ## Solution
 
-**Language**: "java"
+**Language**: Java
 
-**Runtime**: `0 ms`
+**Runtime**: `1 ms` (Beats 59.08%)
+
+**Memory**: `46.9 MB` (Beats 88.16%)
 
 ---
 
@@ -58,10 +60,10 @@
 **Space Complexity**: O\(n\)
 
 **Notes**:
-The function recursively traverses each node once, updating the diameter using the sum of left and right subtree depths; recursion depth equals tree height, leading to linear space in the worst case.
+Performs a post-order recursive DFS to compute subtree heights and update the maximum path length; runs in linear time with recursion stack space proportional to the tree height \(worst‑case O\(n\)\).
 
 ---
 
-*Solved on: 9/9/2026*
+*Solved on: 11/4/2026*
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*
