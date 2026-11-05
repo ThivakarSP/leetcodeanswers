@@ -34,9 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Bit Manipulation
 - [0767-prime-number-of-set-bits-in-binary-representation](./0767-prime-number-of-set-bits-in-binary-representation)
 
-### Breadth-First Search
-- [0199-binary-tree-right-side-view](./0199-binary-tree-right-side-view)
-
 ### Depth-First Search
 - [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree)
 
@@ -115,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0124-binary-tree-maximum-path-sum](./0124-binary-tree-maximum-path-sum)
 - [0144-binary-tree-preorder-traversal](./0144-binary-tree-preorder-traversal)
 - [0145-binary-tree-postorder-traversal](./0145-binary-tree-postorder-traversal)
+- [0199-binary-tree-right-side-view](./0199-binary-tree-right-side-view)
 - [0226-invert-binary-tree](./0226-invert-binary-tree)
 - [0257-binary-tree-paths](./0257-binary-tree-paths)
 - [0404-sum-of-left-leaves](./0404-sum-of-left-leaves)

@@ -1,6 +1,6 @@
 # [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
-**Difficulty**: 🟡 Medium
+**Difficulty**: ð¡ Medium
 
 **Topics**: `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 
@@ -86,5 +86,29 @@ Uses level-order traversal to capture the rightmost node at each depth, storing 
 ---
 
 *Solved on: 9/9/2026*
+
+---
+
+## Version 2
+
+**Language**: Java
+
+**Runtime**: `1 ms` (78.88%)
+
+**Memory**: `43.3 MB` (69.70%)
+
+*Solved on: 11/5/2026*
+
+### References (v2)
+
+**Approach**: Tree
+
+**Time Complexity**: O\(n\)
+
+**Space Complexity**: O\(n\)
+
+**Notes**:
+Uses level-order traversal with a queue, adding the rightmost node of each level to the result.
+
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*
