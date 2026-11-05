@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0144-binary-tree-preorder-traversal](./0144-binary-tree-preorder-traversal)
 - [0145-binary-tree-postorder-traversal](./0145-binary-tree-postorder-traversal)
 - [0226-invert-binary-tree](./0226-invert-binary-tree)
+- [0257-binary-tree-paths](./0257-binary-tree-paths)
 - [0543-diameter-of-binary-tree](./0543-diameter-of-binary-tree)
 
 ### Two Pointers
