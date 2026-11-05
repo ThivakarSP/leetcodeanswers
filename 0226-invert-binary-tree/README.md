@@ -1,6 +1,6 @@
 # [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
-**Difficulty**: 🟡 Medium
+**Difficulty**: ð¡ Medium
 
 **Topics**: `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 
@@ -67,5 +67,29 @@ Recursively swaps left and right subtrees for each node, visiting each node once
 ---
 
 *Solved on: 9/9/2026*
+
+---
+
+## Version 2
+
+**Language**: Java
+
+**Runtime**: `0 ms` (100.00%)
+
+**Memory**: `42.5 MB` (82.18%)
+
+*Solved on: 11/5/2026*
+
+### References (v2)
+
+**Approach**: Tree
+
+**Time Complexity**: O\(n\)
+
+**Space Complexity**: O\(n\)
+
+**Notes**:
+Uses a recursive depth‑first traversal to swap left and right children at every node; each node is visited once, and recursion depth equals the tree height \(O\(n\) worst‑case\).
+
 
 *Auto-synced by [CodeTrail](https://github.com/ThivakarSP/CodeTrail)*
