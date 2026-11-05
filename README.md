@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0103-binary-tree-zigzag-level-order-traversal](./0103-binary-tree-zigzag-level-order-traversal)
 - [0104-maximum-depth-of-binary-tree](./0104-maximum-depth-of-binary-tree)
 - [0110-balanced-binary-tree](./0110-balanced-binary-tree)
+- [0112-path-sum](./0112-path-sum)
 - [0124-binary-tree-maximum-path-sum](./0124-binary-tree-maximum-path-sum)
 - [0144-binary-tree-preorder-traversal](./0144-binary-tree-preorder-traversal)
 - [0145-binary-tree-postorder-traversal](./0145-binary-tree-postorder-traversal)
