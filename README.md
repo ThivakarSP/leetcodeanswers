@@ -34,6 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Bit Manipulation
 - [0767-prime-number-of-set-bits-in-binary-representation](./0767-prime-number-of-set-bits-in-binary-representation)
 
+### Breadth-First Search
+- [0662-maximum-width-of-binary-tree](./0662-maximum-width-of-binary-tree)
+
 ### Depth-First Search
 - [2347-count-nodes-equal-to-average-of-subtree](./2347-count-nodes-equal-to-average-of-subtree)
 
