@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 ### Greedy
 - [0883-car-fleet](./0883-car-fleet)
 - [0890-lemonade-change](./0890-lemonade-change)
+- [0891-score-after-flipping-matrix](./0891-score-after-flipping-matrix)
 - [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [1644-maximum-number-of-non-overlapping-substrings](./1644-maximum-number-of-non-overlapping-substrings)
 
