@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0144-binary-tree-preorder-traversal](./0144-binary-tree-preorder-traversal)
 - [0145-binary-tree-postorder-traversal](./0145-binary-tree-postorder-traversal)
 - [0199-binary-tree-right-side-view](./0199-binary-tree-right-side-view)
+- [0222-count-complete-tree-nodes](./0222-count-complete-tree-nodes)
 - [0226-invert-binary-tree](./0226-invert-binary-tree)
 - [0236-lowest-common-ancestor-of-a-binary-tree](./0236-lowest-common-ancestor-of-a-binary-tree)
 - [0257-binary-tree-paths](./0257-binary-tree-paths)
