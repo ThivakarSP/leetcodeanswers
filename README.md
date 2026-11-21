@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [0891-score-after-flipping-matrix](./0891-score-after-flipping-matrix)
 - [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)
 - [1644-maximum-number-of-non-overlapping-substrings](./1644-maximum-number-of-non-overlapping-substrings)
+- [4447-minimum-range-after-sum-operations](./4447-minimum-range-after-sum-operations)
 
 ### Hash Table
 - [0146-lru-cache](./0146-lru-cache)
