@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Synced using [
 - [3847-minimum-swaps-to-sort-by-digit-sum](./3847-minimum-swaps-to-sort-by-digit-sum)
 - [4284-smallest-stable-index-i](./4284-smallest-stable-index-i)
 - [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii)
+- [4482-assign-umbrella-on-rainy-days](./4482-assign-umbrella-on-rainy-days)
 
 ### Backtracking
 - [0017-letter-combinations-of-a-phone-number](./0017-letter-combinations-of-a-phone-number)
